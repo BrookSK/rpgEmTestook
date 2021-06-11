@@ -11,6 +11,7 @@
 // Fazer uma forma do personagem escolher suas raça
 
 //teste on
+//ok
 
 
 struct Personagem{

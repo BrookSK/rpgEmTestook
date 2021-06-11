@@ -10,7 +10,7 @@
 
 // Fazer uma forma do personagem escolher suas raça
 
-//teste
+//teste on
 
 
 struct Personagem{

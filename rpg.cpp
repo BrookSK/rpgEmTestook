@@ -10,10 +10,11 @@
 
 // Fazer uma forma do personagem escolher suas raça
 
+
+//vamos
 //teste on
 //ok
 //ll
-//hello
 
 
 struct Personagem{
